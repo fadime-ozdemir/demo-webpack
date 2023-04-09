@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA,KACE,wBAA4B,CAE5B,GACE,SACF,CAEA,IAEE,WAAY,CADZ,WAEF,CACF","sources":["webpack://demo-webpack/./src/index.scss"],"sourcesContent":["body {\r\n  background-color: whitesmoke;\r\n\r\n  h1 {\r\n    color: red;\r\n  }\r\n\r\n  img {\r\n    width: 250px;\r\n    height: auto;\r\n  }\r\n}\r\n"],"names":[],"sourceRoot":""}
